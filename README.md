@@ -47,6 +47,10 @@ The data was modeled using a star schema with fact and dimension tables to ensur
 
 ---
 
+## Files
+- Project_1.pbix – Power BI report
+- screenshots/ – dashboard visuals
+
 ## Author
 Amir Rashidov  
 Aspiring Data Analyst | Power BI | Business Analytics
